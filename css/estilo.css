@@ -1,0 +1,11 @@
+/*Estrutura do site*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: helvetica, "Trubuchet MS", sans-serif;
+    background: #fff url(../imagens/bg.png);
+    margin: 15px;
+}
